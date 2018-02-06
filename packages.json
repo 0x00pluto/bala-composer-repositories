@@ -1,11 +1,14 @@
 {
   "name": "Bala Repository",
   "homepage": "https://composer.wx.paymini.com.cn/",
-  "require-all": true,
+  "providers": true,
   "repositories": [
     {
       "type": "git",
       "url": "https://gitlab.wx.paymini.com.cn/php-sdks/pluto.git"
     }
-  ]
+  ],
+  "require": {
+    "pluto/core": "*"
+  }
 }
