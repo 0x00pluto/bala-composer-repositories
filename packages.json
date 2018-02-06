@@ -6,7 +6,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://zhipeng@gitlab.paymini.com.cn/zhipeng/pluto.git"
+      "url": "https://gitlab.wx.paymini.com.cn/php-sdks/pluto.git"
     }
   ]
 }
