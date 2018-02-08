@@ -14,6 +14,10 @@
     {
       "type": "git",
       "url": "https://gitlab.wx.paymini.com.cn/php-sdks/pluto-supports.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-supports.git"
     }
   ]
 }
