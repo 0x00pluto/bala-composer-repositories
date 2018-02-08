@@ -18,6 +18,15 @@
     {
       "type": "git",
       "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-supports.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.wx.paymini.com.cn/coders/tools-console.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-service-example.git"
+
     }
   ]
 }
