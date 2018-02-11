@@ -34,6 +34,10 @@
     {
       "type": "git",
       "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-service-auth.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-service-open-api.git"
     }
   ]
 }
