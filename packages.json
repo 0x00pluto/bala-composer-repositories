@@ -30,6 +30,10 @@
     {
       "type": "git",
       "url": "https://gitlab.wx.paymini.com.cn/xicService/xic-service-example.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-service-auth.git"
     }
   ]
 }
