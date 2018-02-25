@@ -1,6 +1,6 @@
 {
   "name": "Bala Repository",
-  "homepage": "https://phpcomposer.66plat.com/",
+  "homepage": "https://composer.66plat.com/",
   "providers": true,
   "require-all": true,
   "repositories": [
