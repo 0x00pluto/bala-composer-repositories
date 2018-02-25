@@ -1,6 +1,6 @@
 {
   "name": "Bala Repository",
-  "homepage": "https://composer.wx.paymini.com.cn/",
+  "homepage": "https://phpcomposer.66plat.com/",
   "providers": true,
   "require-all": true,
   "repositories": [
@@ -9,39 +9,39 @@
     },
     {
       "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/php-sdks/pluto.git"
+      "url": "https://gitlab.66plat.com/php-sdks/pluto.git"
     },
     {
       "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/php-sdks/pluto-supports.git"
+      "url": "https://gitlab.66plat.com/php-sdks/pluto-supports.git"
     },
     {
       "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-supports.git"
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-supports.git"
     },
     {
       "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/coders/tools-console.git"
+      "url": "https://gitlab.66plat.com/coders/tools-console.git"
     },
     {
       "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-service-example.git"
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-example.git"
     },
     {
       "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/xicService/xic-service-example.git"
+      "url": "https://gitlab.66plat.com/xicService/xic-service-example.git"
     },
     {
       "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-service-auth.git"
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-auth.git"
     },
     {
       "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/codeTemplate/code-template-service-open-api.git"
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-open-api.git"
     },
     {
       "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/database/db-bala.git"
+      "url": "https://gitlab.66plat.com/database/db-bala.git"
     }
   ]
 }
