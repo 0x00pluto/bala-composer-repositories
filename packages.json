@@ -42,6 +42,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/database/db-bala.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-member.git"
     }
   ]
 }
