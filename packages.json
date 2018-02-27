@@ -46,6 +46,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-member.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/xicService/xic-service-supports.git"
     }
   ]
 }
