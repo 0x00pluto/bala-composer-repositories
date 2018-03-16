@@ -50,6 +50,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/xicService/xic-service-supports.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-weixin.git"
     }
   ]
 }
