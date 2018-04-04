@@ -78,6 +78,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-shipping-address.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-review.git"
     }
   ]
 }
