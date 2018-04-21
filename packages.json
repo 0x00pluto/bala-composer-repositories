@@ -98,6 +98,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/codeTemplate/code-template-objects-rpc.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-message.git"
     }
   ]
 }
