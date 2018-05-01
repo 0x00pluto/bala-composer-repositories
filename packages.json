@@ -118,6 +118,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-invite.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/testXicService/test-service-example.git"
     }
   ]
 }
