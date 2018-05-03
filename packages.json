@@ -126,6 +126,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-queue.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/codeTemplate/xic-service-open-api-callback.git"
     }
   ]
 }
