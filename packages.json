@@ -130,6 +130,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/codeTemplate/xic-service-open-api-callback.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-update-tools.git"
     }
   ]
 }
