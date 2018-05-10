@@ -134,6 +134,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-update-tools.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-manage-agent.git"
     }
   ]
 }
