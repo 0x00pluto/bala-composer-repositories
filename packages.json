@@ -154,6 +154,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-tools-service.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-database-bala-service-tools.git"
     }
   ]
 }
