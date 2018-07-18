@@ -170,6 +170,10 @@
     {
       "type": "git",
       "url": "https://gitlab.66plat.com/codeTemplate/code-template-objects-manage.git"
+    },
+    {
+      "type": "git",
+      "url": "https://gitlab.66plat.com/codeTemplate/code-template-service-objects.git"
     }
   ]
 }
