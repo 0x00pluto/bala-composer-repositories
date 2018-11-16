@@ -1,16 +1,47 @@
 {
   "name": "Bala Repository",
-  "homepage": "https://composer-depend.wx.paymini.com.cn/",
-  "providers": true,
+  "homepage": "https://composer-depend.api.66plat.com/",
   "require-dependencies": true,
-  "require-dev-dependencies": true,
+  "providers": true,
   "repositories": [
-    {
-      "type": "git",
-      "url": "https://gitlab.wx.paymini.com.cn/php-sdks/pluto.git"
-    }
   ],
   "require": {
-    "pluto/core": "*"
+    "monolog/monolog": "~1.23.0",
+    "phpunit/phpunit": "^6.0",
+    "kamisama/php-resque-ex": "^1.3",
+    "league/csv": "~8.1.1",
+    "hella-engine/schedule": "~1.0",
+    "hella-engine/support": "~1.0",
+    "illuminate/container": "~5.3.0",
+    "illuminate/config": "~5.3.0",
+    "illuminate/database": "~5.3.0",
+    "illuminate/events": "~5.3.0",
+    "predis/predis": "~1.1.0",
+    "symfony/http-foundation": "~3.2",
+    "symfony/console": "~3.2",
+    "symfony/yaml": "~3.0",
+    "symfony/stopwatch": "~3.0",
+    "symfony/class-loader": "~3.0",
+    "symfony/event-dispatcher": "~3.0",
+    "symfony/dependency-injection": "~3.0",
+    "symfony/config": "~3.0",
+    "symfony/http-kernel": "~3.0",
+    "symfony/proxy-manager-bridge": "~3.0",
+    "symfony/process": "~3.0",
+    "symfony/validator": "~3.0",
+    "parsecsv/php-parsecsv": "^0.4.5",
+    "brandonwamboldt/utilphp": "^1.1",
+    "qiniu/php-sdk": "^7.0",
+    "symfony/finder": "~3.1",
+    "rodneyrehm/plist": "^2.0",
+    "nikic/php-parser": "^1.4",
+    "koesie10/lua-serializer": "^0.1.0",
+    "symfony/serializer": "~3.0",
+    "symfony/templating": "~3.0",
+    "symfony/property-access": "~3.0",
+    "nesbot/carbon": "^1.21",
+    "greenlion/php-sql-parser": "^4.1",
+    "pluto/core": "~2.22",
+    "phpoffice/phpspreadsheet": "^1.2"
   }
 }
