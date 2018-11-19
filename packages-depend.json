@@ -43,6 +43,7 @@
     "greenlion/php-sql-parser": "^4.1",
     "pluto/core": "~2.22",
     "phpoffice/phpspreadsheet": "^1.2",
-    "aliyuncs/oss-sdk-php": "~2.0"
+    "aliyuncs/oss-sdk-php": "~2.0",
+    "fresque/fresque": "^1.3"
   }
 }
