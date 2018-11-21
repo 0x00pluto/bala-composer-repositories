@@ -27,7 +27,7 @@
     "symfony/config": "~3.0",
     "symfony/http-kernel": "~3.0",
     "symfony/proxy-manager-bridge": "~3.0",
-    "symfony/process": "~3",
+    "symfony/process": "*",
     "symfony/validator": "~3.0",
     "parsecsv/php-parsecsv": "^0.4.5",
     "brandonwamboldt/utilphp": "^1.1",
