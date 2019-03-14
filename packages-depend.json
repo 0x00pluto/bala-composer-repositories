@@ -1,9 +1,13 @@
 {
   "name": "Bala Depend Repository",
-  "homepage": "https://composer-depend.api.66plat.com/",
+  "homepage": "https://composer-depend.66plat.com/",
   "require-dependencies": true,
   "providers": false,
   "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.org"
+    }
   ],
   "require": {
     "monolog/monolog": "~1.23.0",
