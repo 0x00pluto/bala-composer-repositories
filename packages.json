@@ -170,6 +170,10 @@
     {
       "type": "git",
       "url": "https://github.com/babety/bala-code-template-service-merchant.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.caibeitv.com/hughcube/aaspay.git"
     }
   ]
 }
