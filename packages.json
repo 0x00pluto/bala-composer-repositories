@@ -1,6 +1,7 @@
 {
   "name": "Bala Repository",
   "homepage": "https://composer.66plat.com/",
+  "require-dependencies": true,
   "providers": true,
   "require-all": true,
   "repositories": [
