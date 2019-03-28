@@ -287,6 +287,22 @@
     {
       "type": "git",
       "url": "https://github.caibeitv.com/hughcube/yii2-xhprof.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.caibeitv.com/caibeitv/crpc-client.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.caibeitv.com/caibeitv/crpc-const.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.caibeitv.com/caibeitv/crpc-helpers.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.caibeitv.com/caibeitv/helpers.git"
     }
   ]
 }
