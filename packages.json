@@ -299,6 +299,10 @@
     {
       "type": "git",
       "url": "https://github.caibeitv.com/caibeitv/helpers.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.caibeitv.com/servers/engine-core.git"
     }
   ]
 }
