@@ -7,6 +7,10 @@
     {
       "type": "composer",
       "url": "https://packagist.org"
+    },
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
     }
   ],
   "require": {
@@ -60,6 +64,26 @@
     "yiisoft/yii2-swiftmailer": "2.0.5",
     "codeception/base": "^2.4.0",
     "codeception/verify": "~1.0.0",
-    "symfony/browser-kit": ">=2.7 <=4.2.4"
+    "symfony/browser-kit": ">=2.7 <=4.2.4",
+    "yiisoft/yii2-redis": "~2.0.0",
+    "yiisoft/yii2-imagine": "^2.0",
+    "xxtea/xxtea": "^1.0",
+    "kartik-v/yii2-export": "^1.2",
+    "jenssegers/agent": "^2.0",
+    "2amigos/yii2-date-picker-widget": "^1.0",
+    "endroid/qrcode": "^1.7",
+    "yiidoc/yii2-redactor": "^2.0",
+    "m35/thecsv": "^1.0",
+    "james-heinrich/getid3": "^1.9",
+    "spatie/browsershot": "^3.14",
+    "overtrue/pinyin": "^3.0",
+    "imangazaliev/didom": "^1.14",
+    "aliyun/aliyun-tablestore-sdk-php": "^4.1",
+    "kartik-v/yii2-mpdf": "~1.0.0",
+    "misterion/ko-process": "^0.5.3",
+    "spatie/pdf-to-image": "^1.8",
+    "bower-asset/inputmask": "~3.2.2 || ~3.3.5",
+    "flexihash/flexihash": "^2.0",
+    "yiisoft/yii2-authclient": "^2.0"
   }
 }

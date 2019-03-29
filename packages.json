@@ -3,11 +3,7 @@
   "homepage": "https://composer.66plat.com/",
   "require-dependencies": false,
   "providers": true,
-  "require-all": true,
   "repositories": [
-    {
-      "packagist": false
-    },
     {
       "type": "git",
       "url": "https://github.com/babety/bala-pluto.git"
