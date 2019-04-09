@@ -84,6 +84,7 @@
     "spatie/pdf-to-image": "^1.8",
     "bower-asset/inputmask": "~3.2.2 || ~3.3.5",
     "flexihash/flexihash": "^2.0",
-    "yiisoft/yii2-authclient": "^2.0"
+    "yiisoft/yii2-authclient": "^2.0",
+    "jeremeamia/SuperClosure:"^2.0"
   }
 }
