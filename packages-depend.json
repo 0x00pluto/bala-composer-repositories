@@ -86,6 +86,7 @@
     "flexihash/flexihash": "^2.0",
     "yiisoft/yii2-authclient": "^2.0",
     "jeremeamia/SuperClosure": "^2.0",
-    "yiisoft/yii2": "~2.0.14.0"
+    "yiisoft/yii2": "~2.0.14.0",
+    "bower-asset/yii2-pjax":"~2.0.0"
   }
 }
