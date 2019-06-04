@@ -94,5 +94,6 @@
     "bower-asset/bootstrap3-dialog": "*",
     "bower-asset/jquery": "*",
     "bower-asset/typeahead.js": "*"
+  
   }
 }
