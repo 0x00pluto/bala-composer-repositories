@@ -86,7 +86,7 @@
     "flexihash/flexihash": "^2.0",
     "yiisoft/yii2-authclient": "^2.0",
     "jeremeamia/SuperClosure": "^2.0",
-    "yiisoft/yii2": "~2.0.9",
+    "yiisoft/yii2": "~2.0.10",
     "bower-asset/yii2-pjax": "*",
     "spatie/image-optimizer": "*",
     "bower-asset/bootstrap": "*",
@@ -94,6 +94,5 @@
     "bower-asset/bootstrap3-dialog": "*",
     "bower-asset/jquery": "*",
     "bower-asset/typeahead.js": "*"
-  
   }
 }
