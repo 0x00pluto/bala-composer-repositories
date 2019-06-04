@@ -86,10 +86,14 @@
     "flexihash/flexihash": "^2.0",
     "yiisoft/yii2-authclient": "^2.0",
     "jeremeamia/SuperClosure": "^2.0",
-    "yiisoft/yii2": "~2.0.14.0",
-    "bower-asset/yii2-pjax":"~2.0.0",
-    "bower-asset/bootstrap3-dialog":"~1.33.0",
-    "kartik-v/yii2-dialog":"~1.0.0",
-    "kartik-v/yii2-grid":"~3.0"
+    "yiisoft/yii2": "~2.0.9",
+    "bower-asset/yii2-pjax": "*",
+    "spatie/image-optimizer": "*",
+    "bower-asset/bootstrap": "*",
+    "bower-asset/bootstrap-datepicker": "*",
+    "bower-asset/bootstrap3-dialog": "*",
+    "bower-asset/jquery": "*",
+    "bower-asset/typeahead.js": "*",
+
   }
 }
