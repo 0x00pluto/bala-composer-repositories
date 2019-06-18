@@ -93,6 +93,7 @@
     "bower-asset/bootstrap-datepicker": "*",
     "bower-asset/bootstrap3-dialog": "*",
     "bower-asset/jquery": "*",
-    "bower-asset/typeahead.js": "*"
+    "bower-asset/typeahead.js": "*",
+    "alibaba/nacos": "~0.0"
   }
 }
